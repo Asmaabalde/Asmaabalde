@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 📊 Curieuse aussi de **data** et d’analyse de données  
 💻 Ici, je partage mes projets (cours + perso) et mon évolution en tant que développeuse
 
-### 🌐 Connect with me
-<a href="https://www.linkedin.com/in/asmaou-bald%C3%A9-cyber/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
-  LinkedIn – Asmaou Baldé
-</a>
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/asmaou-bald%C3%A9-cyber/">
+    <img src="https://img.shields.io/badge/LinkedIn-Asmaou%20Baldé-blue?style=flat-square&logo=linkedin" />
+  </a>
+</p>
