@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 💻 Ici, je partage mes projets (cours + perso) et mon évolution en tant que développeuse
 
 ### 🌐 Connect with me
-[LinkedIn](https://www.linkedin.com/in/asmaou-baldé-cyber/)
+[Profil Linkedin : ](https://www.linkedin.com/in/asmaou-baldé-cyber/)
