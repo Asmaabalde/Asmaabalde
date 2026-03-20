@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.png" width="40"/>
 
 </p>
 
