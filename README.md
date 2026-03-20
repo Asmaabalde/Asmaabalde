@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 About Me
 
 <!--
 **Asmaabalde/Asmaabalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 Étudiante en **L3 Informatique – Université Paris Cité**  
+🔐 Intéressée par la **cybersécurité**, les **systèmes distribués** et le **cloud**  
+📊 Curieuse aussi de **data** et d’analyse de données  
+💻 Ici, je partage mes projets (cours + perso) et mon évolution en tant que développeuse
+
+### 🌐 Connect with me
+[LinkedIn](https://www.linkedin.com/in/asmaou-baldé-cyber/)
